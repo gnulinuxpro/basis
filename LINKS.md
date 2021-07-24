@@ -1,6 +1,6 @@
 [Курс в видеоформате](https://youtube.com/playlist?list=PLisqB92_b4TlQH3jVGf6lrFMVqalCTjAQ)
 
-[Курс в виде книги](glr.doatta.cloud)
+[Курс в виде книги](https://glr.doatta.cloud)
 
 Можно скачать pdf и md файлы с [Gitlab](https://gitlab.com/doatta/gnu-linux-rhcsa) и [Github](https://github.com/doatta/gnu-linux-rhcsa)
 
