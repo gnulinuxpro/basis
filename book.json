@@ -1,0 +1,6 @@
+{
+	"gitbook": "2.x.x",
+	"title": "Основы GNU/Linux и подготовка к RHCSA",
+	"language": "ru",
+	"plugins": ["youtube"]
+}

@@ -1,3 +1,5 @@
+{% youtube src="https://youtu.be/acqAnwP_WZU" %}{% endyoutube %}
+
 ![](images/readme/readme.png)
 
 Всем привет!
