@@ -1,14 +1,25 @@
 {
-	"gitbook": "2.x.x",
+	"gitbook": "3.x.x",
 	"title": "Основы GNU/Linux и подготовка к RHCSA",
-	"pdf": {
-		"pageNumbers": true,
-		"headerTemplate": " ",
-		"footerTemplate": " "
-	},
 	"language": "ru",
 	"plugins": [
 		"youtube",
 		"autocover"
-	]
+	],
+	"pluginsConfig": {
+        "autocover": {
+          "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
+    }
 }
