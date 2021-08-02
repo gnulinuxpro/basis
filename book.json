@@ -1,5 +1,5 @@
 {
-	"gitbook": "3.2.3",
+	"gitbook": "3.x.x",
 	"title": "Основы GNU/Linux и подготовка к RHCSA",
 	"language": "ru",
 	"plugins": [
@@ -7,6 +7,7 @@
 		"autocover"
 	],
 	"pdf": {
+    "pageNumbers": true,
 		"headerTemplate": "_TITLE_",
 		"footerTemplate": "_PAGENUM_, _SECTION_."
 	}
