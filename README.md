@@ -1,4 +1,4 @@
-{% youtube src="https://youtu.be/acqAnwP_WZU" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=acqAnwP_WZU" %}{% endyoutube %}
 
 ![](images/readme/readme.png)
 
