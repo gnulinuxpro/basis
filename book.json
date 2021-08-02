@@ -7,7 +7,7 @@
 		"autocover"
 	],
 	"pdf": {
-    "pageNumbers": true,
+    "displayHeaderFooter": true,
 		"headerTemplate": "_TITLE_",
 		"footerTemplate": "_PAGENUM_, _SECTION_."
 	}
