@@ -1,14 +1,14 @@
 {
 	"gitbook": "3.x.x",
 	"title": "Основы GNU/Linux и подготовка к RHCSA",
+	"pdf": {
+		"pageNumbers": true,
+		"headerTemplate": " ",
+		"footerTemplate": " "
+	},
 	"language": "ru",
 	"plugins": [
 		"youtube",
 		"autocover"
-	],
-	"pdf": {
-    "displayHeaderFooter": true,
-		"headerTemplate": "_TITLE_",
-		"footerTemplate": "_PAGENUM_, _SECTION_."
-	}
+	]
 }
