@@ -5,5 +5,9 @@
 	"plugins": [
 		"youtube",
 		"autocover"
-	]
+	],
+	"pdf": {
+	        "headerTemplate": "_TITLE_",
+	        "footerTemplate": "_PAGENUM_, _SECTION_."
+	    }
 }
