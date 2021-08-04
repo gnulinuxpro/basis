@@ -2,7 +2,9 @@
 
 [Курс в виде книги](https://glr.doatta.cloud)
 
-Можно скачать pdf и md файлы с [Gitlab](https://gitlab.com/doatta/gnu-linux-rhcsa) и [Github](https://github.com/doatta/gnu-linux-rhcsa)
+Чтобы сохранить книгу, нажмите "Export as PDF" в правом верхнем углу.
+
+Можно скачать md файлы с [Gitlab](https://gitlab.com/doatta/gnu-linux-rhcsa) и [Github](https://github.com/doatta/gnu-linux-rhcsa)
 
 [Телеграмм группа](https://t.me/gnuslashlinux) для вопросов и общения
 
