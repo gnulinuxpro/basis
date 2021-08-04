@@ -2,12 +2,5 @@
 	"gitbook": "3.x.x",
 	"title": "Основы GNU/Linux и подготовка к RHCSA",
 	"language": "ru",
-	"plugins": [
-		"youtube",
-		"autocover"
-	],
-	"pdf": {
-	        "headerTemplate": "_TITLE_",
-	        "footerTemplate": "_PAGENUM_, _SECTION_."
-	    }
+	"plugins": ["youtube"]
 }
