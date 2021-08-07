@@ -20,7 +20,7 @@
 
 - Use grep and regular expressions to analyze text
 
-- Adjust process scheduling. Manage tuning profiles
+- Manage tuning profiles
 
 - Configure IPv6 addresses
 
