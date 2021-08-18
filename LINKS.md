@@ -20,8 +20,6 @@
 
 - Use grep and regular expressions to analyze text
 
-- Manage tuning profiles
-
 - Configure IPv6 addresses
 
 - Securely transfer files between systems. Mount and unmount network file systems using NFS. star
