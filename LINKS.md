@@ -4,9 +4,11 @@
 
 Чтобы сохранить книгу, нажмите "Export as PDF" в правом верхнем углу.
 
-Можно скачать md файлы с [Gitlab](https://gitlab.com/doatta/gnu-linux-rhcsa) и [Github](https://github.com/doatta/gnu-linux-rhcsa)
+Можно скачать md файлы с [Gitlab](https://gitlab.com/doatta/gnu-linux-rhcsa) и [Github](https://github.com/doatta/gnu-linux-rhcsa) .
 
-[Телеграмм группа](https://t.me/gnuslashlinux) для вопросов и общения
+Также там доступен torrent файл, чтобы скачать все видео.
+
+[Телеграмм группа](https://t.me/gnuslashlinux) для вопросов и общения.
 
 Если заметите опечатки/ошибки, а также если у вас будут вопросы и предложения - можете открывать issue или писать в телеграмме.
 
