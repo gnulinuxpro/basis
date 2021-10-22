@@ -74,3 +74,31 @@ grep -r
 grep -l
 grep -v
 ```
+
+##### [10. Текстовые редакторы nano и vi](10._Текстовые_редакторы_nano_и_vi.md)
+
+```
+nano
+vi
+vim
+```
+
+##### [11. Стандартные потоки](11._Стандартные_потоки.md)
+
+```
+>
+>>
+2>
+&>
+|
+tee
+```
+
+##### [12. bash №1: bash-completion, alias, type](12._bash_№1:_bash-completion,_alias,_type.md)
+
+```
+alias
+ls -d
+type
+type -a
+```
