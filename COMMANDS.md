@@ -147,3 +147,80 @@ pkill
 pkill -19
 pkill -18
 ```
+
+##### [17. su](17._su.md)
+
+```
+wc -l
+exit
+su
+su -
+su -c
+```
+
+##### [18. sudo](18._sudo.md)
+
+```
+sudo
+sudo -s
+sudoedit
+visudo
+visudo -f
+hostname
+groups
+which
+```
+
+##### [19. Пользователи](19._Пользователи.md)
+
+```
+id
+newgrp
+chage
+chage -l
+useradd
+useradd -D
+useradd -b
+useradd -d
+useradd -c
+useradd -g
+useradd -G
+useradd -u
+passwd
+usermod
+usermod -m
+usermod -aG
+userdel
+userdel -r
+groupadd
+groupmod
+groupdel
+gpasswd
+gpasswd -A
+gpasswd -M
+gpasswd -a
+gpasswd -d
+lid
+lid -g
+```
+
+##### [20. Права на файлы](20._Права_на_файлы.md)
+
+```
+stat
+ls -l
+chown
+chown -R
+chown -v
+chgrp
+chmod
+chmod -v
+chmod -R
+chmod [+-=][rwxts]
+umask
+umask -S
+getfacl
+setfacl
+setfacl -m
+setfacl -b
+```
