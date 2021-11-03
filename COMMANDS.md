@@ -224,3 +224,93 @@ setfacl
 setfacl -m
 setfacl -b
 ```
+
+##### [21. Ядро Linux](21._Ядро_Linux.md)
+
+```
+uname
+uname -r
+du
+du -h
+modinfo
+lscpu
+lspci
+lsusb
+lshw
+hardinfo
+dmesg
+dmesg -w
+dmesg -H
+modprobe
+modprobe -r
+lsmod
+```
+
+##### [22. Работа с дисками](22._Работа_с_дисками.md)
+
+```
+lsscsi
+lsscsi -s
+fdisk
+fdisk -l
+cfdisk
+lsblk
+```
+
+##### [23. Основы файловых систем](23._Основы_файловых_систем.md)
+
+```
+iostat
+```
+
+##### [24. Работа с файловыми системами](24._Работа_с_файловыми_системами.md)
+
+```
+mkfs
+mkfs.ext4
+tune2fs
+tune2fs -l
+lsof
+lsof +D
+mount
+df
+df -h
+blkid
+cut
+reboot
+fsck
+```
+
+##### [25. Управление логическими томами - LVM](25._Управление_логическими_томами_-_LVM.md)
+
+```
+pvcreate
+pvs
+pvsdisplay
+vgcreate
+vgs
+vgdisplay
+lvcreate
+lvs
+lvdisplay
+lsblk -f
+wipefs
+wipefs -a
+vgextend
+lvextend
+lvextend -r
+resize2fs
+lvremove
+vgremove
+pvremove
+lvcreate -s
+lvconvert
+lvconvert --merge
+```
+
+##### [26. Программный RAID - MD](26._Программный_RAID_-_MD.md)
+
+```
+mdadm
+mdadm -D
+```
