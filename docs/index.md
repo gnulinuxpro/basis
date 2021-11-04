@@ -1,24 +1,24 @@
 ## GNU/Linux Pro
 
+## Основы GNU/Linux и подготовка к RHCSA
+
 [Курс в видеоформате](https://youtube.com/playlist?list=PLisqB92_b4TlQH3jVGf6lrFMVqalCTjAQ)
 
-[Курс в виде книги](https://glr.doatta.cloud)
+[Курс в виде книги](https://basis.gnulinux.pro)
 
 Чтобы сохранить книгу, нажмите "Export as PDF" в правом верхнем углу.
 
-Можно скачать md файлы с [Gitlab](https://gitlab.com/doatta/gnu-linux-rhcsa) и [Github](https://github.com/doatta/gnu-linux-rhcsa).
+Книга собирается из [Github](https://github.com/gnulinuxpro/basis/) репозитория.
 
-Также там доступен torrent файл, чтобы скачать все видео.
+Также там доступен [torrent файл](https://github.com/gnulinuxpro/basis/blob/master/gnu-linux-rhcsa.torrent), чтобы скачать весь курс, включая видео.
 
 [Телеграмм группа](https://t.me/gnuslashlinux) для вопросов и общения.
 
 Если заметите опечатки/ошибки, а также если у вас будут вопросы и предложения - можете открывать issue или писать в телеграмме.
 
+## Подготовка к экзамену
+
 [Все темы экзамена](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=Objectives)
-
----
-
-### TODO
 
 ##### Темы экзамена, которые осталось разобрать:
 
