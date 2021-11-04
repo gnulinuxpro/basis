@@ -1,7 +1,7 @@
 # Основы GNU/Linux и подготовка к RHCSA
 
 * [Вступление](README.md)
-* [Ссылки](index.md)
+* [Ссылки](docs/index.md)
 * [Команды](COMMANDS.md)
 
 ## Курс
