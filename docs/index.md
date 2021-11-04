@@ -1,5 +1,7 @@
 ## Курс: Основы GNU/Linux и подготовка к RHCSA
 
+![](/images/readme/readme.png)
+
 [В видеоформате](https://youtube.com/playlist?list=PLisqB92_b4TlQH3jVGf6lrFMVqalCTjAQ)
 
 [В виде книги](https://basis.gnulinux.pro)
