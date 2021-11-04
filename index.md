@@ -4,7 +4,7 @@
 
 Чтобы сохранить книгу, нажмите "Export as PDF" в правом верхнем углу.
 
-Можно скачать md файлы с [Gitlab](https://gitlab.com/doatta/gnu-linux-rhcsa) и [Github](https://github.com/doatta/gnu-linux-rhcsa) .
+Можно скачать md файлы с [Gitlab](https://gitlab.com/doatta/gnu-linux-rhcsa) и [Github](https://github.com/doatta/gnu-linux-rhcsa).
 
 Также там доступен torrent файл, чтобы скачать все видео.
 
