@@ -3,6 +3,7 @@
 * [Вступление](README.md)
 * [Ссылки](docs/index.md)
 * [Команды](COMMANDS.md)
+* [RHCSA](RHCSA.md)
 
 ## Курс
 
