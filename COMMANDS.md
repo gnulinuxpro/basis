@@ -327,7 +327,7 @@ read -p
 
 ```
 if
-[
+[]
 test
 ```
 
@@ -347,7 +347,73 @@ exit 1
 
 ```
 for
-IFS
 select
 case
+```
+
+#### [31. bash скрипты №5](31._bash_скрипты_№5.md)
+
+```
+tr
+grep -w
+```
+
+#### [32. bash скрипты №6](32._bash_скрипты_№6.md)
+
+```
+while
+++
+--
+sleep
+until
+```
+
+#### [33. Загрузчик GRUB](33._Загрузчик_GRUB.md)
+
+```
+grep -e
+grub2-mkconfig
+grub2-mkconfig -o
+lsinitrd
+dracut -f
+```
+
+#### [34. Система инициализации - systemd](34._Система_инициализации_-_systemd.md)
+
+```
+systemctl
+systemctl get-default
+systemctl list-dependencies
+systemctl set-default
+systemctl cat
+systemctl isolate
+systemctl enable
+systemctl disable
+systemctl is-enabled
+```
+
+#### [35. Системный менеджер systemd](35._Системный_менеджер_systemd.md)
+
+```
+systemctl stop
+systemctl start
+systemctl restart
+systemctl reload
+systemctl mask
+systemctl unmask
+systemctl status
+systemctl --all
+systemctl show
+```
+
+#### [36. Логирование](36._Логирование.md)
+
+```
+journalctl
+journalctl -e
+journalctl -u
+journalctl -f
+journalctl -b
+logger
+logger -p
 ```
