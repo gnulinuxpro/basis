@@ -417,3 +417,52 @@ journalctl -b
 logger
 logger -p
 ```
+
+#### [37. Планировщики задач](37._Планировщики_задач.md)
+
+```
+at
+atq
+at -l
+at -c
+at -f
+at -r
+atrm
+crontab -e
+crontab -l
+systemd-run
+```
+
+#### [38. Создание backup скрипта](38._Создание_backup_скрипта.md)
+
+```
+du -s
+sort
+ls -h
+ls -S
+find
+find -type
+find -name
+find -user
+find -perm
+find -exec
+find -ls
+find -ok
+find -mtime
+find -delete
+tar
+tar -c
+tar -f
+tar -t
+tar -x
+tar -C
+tar -u
+tar -z
+tar -v
+gzip
+gzip -k
+bzip2
+bzip2 -k
+date
+touch -t
+```
