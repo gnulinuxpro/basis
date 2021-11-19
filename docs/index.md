@@ -36,6 +36,8 @@
 
 Книга собирается из [Github](https://github.com/gnulinuxpro/infra/) репозитория.
 
+Также там доступен [torrent файл](https://github.com/gnulinuxpro/infra/blob/master/infra.torrent), чтобы скачать весь курс, включая видео.
+
 [Телеграмм группа](https://t.me/gnuslashlinux) для вопросов и общения.
 
 Если заметите опечатки/ошибки, а также если у вас будут вопросы и предложения - можете открывать issue или писать в телеграмме.
