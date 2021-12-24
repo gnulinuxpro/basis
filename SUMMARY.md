@@ -5,6 +5,7 @@
 * [Ссылки](docs/index.md)
 * [Команды](COMMANDS.md)
 * [RHCSA](RHCSA.md)
+* [Проблемы и решения](PROBLEMS.md)
 * [Changelog](CHANGELOG.md)
 
 ## Курс

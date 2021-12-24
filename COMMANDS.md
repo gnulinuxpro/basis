@@ -483,3 +483,8 @@ vdo status
 vdostats
 ```
 
+#### [41. Создание systemd юнитов](41._Создание_systemd_юнитов.md)
+
+```
+systemctl daemon-reload
+```
