@@ -6,7 +6,7 @@
 
 [В виде книги](https://basis.gnulinux.pro)
 
-Чтобы сохранить книгу, нажмите "Export as PDF" в правом верхнем углу.
+Чтобы сохранить книгу, нажмите "Read the docs" в левом нижнем углу и выберите формат (PDF, HTML или Epub).
 
 Книга собирается из [Github](https://github.com/gnulinuxpro/basis/) репозитория.
 
@@ -33,7 +33,7 @@
 
 [В виде книги](https://infra.gnulinux.pro)
 
-Чтобы сохранить книгу, нажмите "Export as PDF" в правом верхнем углу.
+Чтобы сохранить книгу, нажмите "Read the docs" в левом нижнем углу и выберите формат (PDF, HTML или Epub).
 
 Книга собирается из [Github](https://github.com/gnulinuxpro/infra/) репозитория.
 
