@@ -2,5 +2,10 @@ theme: jekyll-theme-minimal
 logo: logo.png
 title: GNU/Linux Pro
 description: Про GNU/Linux и IT
+exclude: 
+  - index.rst
+  - conf.py
+  - requirements.txt
+  - basis/ 
 github:
   repository_url: https://github.com/gnulinuxpro/
