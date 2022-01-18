@@ -10,7 +10,7 @@
 
 Книга собирается из [Github](https://github.com/gnulinuxpro/basis/) репозитория.
 
-Также там доступен [torrent файл](https://github.com/gnulinuxpro/basis/blob/master/gnu-linux-rhcsa.torrent), чтобы скачать весь курс, включая видео.
+Также там доступен [torrent файл](https://github.com/gnulinuxpro/basis/blob/master/basis.torrent), чтобы скачать весь курс, включая видео.
 
 [Телеграмм группа](https://t.me/gnuslashlinux) для вопросов и общения.
 
