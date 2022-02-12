@@ -56,6 +56,14 @@ RHCSA
    basis/header/interview.md
 
 
+Полезные ссылки
+***************
+
+.. toctree::
+
+   basis/header/useful.md
+
+
 Проблемы и решения
 ******************
 
