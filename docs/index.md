@@ -20,6 +20,7 @@
 
 #### todo
 
+- Build a container from a Containerfile
 - device mapper
 - квоты
 
