@@ -489,4 +489,287 @@ vdostats
 
 ```
 systemctl daemon-reload
+systemctl list-units
+systemctl enable --now
+systemctl disable --now
+```
+
+#### [43. Работа с сетью](../43/43._Работа_с_сетью.md)
+
+```
+ip
+ip address
+ip route
+ip link
+ping
+traceroute
+nslookup
+nmtui
+```
+
+#### [44. Удалённый доступ - SSH](../44/44._Удалённый_доступ_-_SSH.md)
+
+```
+ssh
+ssh -X
+ssh-copy-id
+```
+
+#### [45. Принудительный контроль доступа - SElinux](../45/45._Принудительный_контроль_доступа_-_SElinux.md)
+
+```
+sestatus
+getenforce
+setenforce
+semanage
+semanage login
+semanage user
+semanage port
+semanage fcontext
+semanage boolean
+semanage export
+id -Z
+ps -Z
+ls -Z
+chconf
+restorecon
+getsebool
+setsebool
+setsebool -P
+```
+
+#### [46. Межсетевой экран - firewalld](../46/46._Межсетевой_экран_-_firewalld.md)
+
+```
+firewall-cmd
+firewall-cmd --permanent
+firewall-cmd --reload
+firewall-cmd --add-port
+firewall-cmd --remove-port
+firewall-cmd --list-all
+firewall-cmd --info-service
+firewall-cmd --list-services
+firewall-cmd --list-ports
+firewall-cmd --remove-service
+firewall-cmd --get-icmptypes
+firewall-cmd --add-icmp-block-inversion
+firewall-cmd --remove-icmp-block-inversion
+firewall-cmd --set-target
+firewall-cmd --get-zones
+firewall-cmd --get-default-zone
+firewall-cmd --change-interface
+firewall-cmd --list-interfaces
+firewall-cmd --add-source
+firewall-cmd --add-masquerade
+firewall-cmd --runtime-to-permanent
+firewall-cmd --list-all-zones
+firewall-cmd --panic-on
+firewall-cmd --panic-off
+firewall-cmd --add-rich-rule
+firewall-cmd --remove-rich-rule
+ss
+ss -n
+ss -l
+ss -t
+ss -a
+nc
+nc -z
+nc -v
+nc -u
+nc -l
+```
+
+#### [47. Пакетный менеджер - dnf](../47/47._Пакетный_менеджер_-_dnf.md)
+
+```
+dnf
+dnf install
+dnf download
+dnf deplist
+dnf repolist
+dnf info
+dnf makecache
+dnf search
+dnf remove
+dnf check-upgrade
+dnf upgrade
+dnf needs-restarting
+dnf provides
+dnf grouplist
+dnf groupinfo
+dnf groupinstall
+dnf module
+dnf module list
+dnf module info
+dnf module install
+dnf history
+dnf history info
+dnf history undo
+dnf history redo
+dnf help
+rpm --scripts
+rpm -p
+rpm -i
+rpm -q
+rpm -l
+rpm -a
+rpm --import
+ldd
+cpio
+rpm2cpio
+```
+
+#### [48. Восстановление доступа](../48/48._Восстановление_доступа.md)
+
+```
+load_policy
+chroot
+```
+
+#### [49. Виртуальная память, swap](../49/49._Виртуальная_память,_swap.md)
+
+```
+free -m
+dd
+mkswap
+swapon
+swapoff
+sysctl
+```
+
+#### [50. Планировщик процессов](../50/50._Планировщик_процессов.md)
+
+```
+chrt
+chrt -p
+chrt -m
+chrt -f
+chrt -r
+chrt -o
+```
+
+#### [51. Оптимизация производительности - tuned](../51/51._Оптимизация_производительности_-_tuned.md)
+
+```
+tuned-adm
+tuned-adm list
+tuned-adm active
+tuned-adm recommend
+tuned-adm profile
+tuned-adm verify
+tuned-adm off
+```
+
+#### [52. Управление многоуровневым хранилищем - stratis](../52/52._Управление_многоуровневым_хранилищем_-_stratis.md)
+
+```
+stratis
+stratis pool
+stratis pool create
+stratis pool list
+stratis pool init-cache
+stratis pool add-data
+stratis blockdev list
+stratis filesystem create
+stratis filesystem list
+stratis filesystem destroy
+stratis filesystem rename
+```
+
+#### [54. Настройка времени](../54/54._Настройка_времени.md)
+
+```
+hwclock
+hwclock -s
+timedatectl
+timedatectl set-local-rtc
+timedatectl list-timezones
+timedatectl set-timezone
+chronyc sources
+firewall-cmd --add-service
+```
+
+#### [55. Работа с IPv6](../55/55._Работа_с_IPv6.md)
+
+```
+firewall-cmd --add-protocol
+ip -6
+traceroute -6
+```
+
+#### [56. Передача файлов по сети](../56/56._Передача_файлов_по_сети.md)
+
+```
+scp
+scp -r
+scp -C
+rsync
+rsync -a
+rsync -v
+rsync -z
+rsync -P
+```
+
+#### [57. Сетевые файловые системы - NFS](../57/57._Сетевые_файловые_системы_-_NFS.md)
+
+```
+exportfs
+exportfs -a
+exportfs -v
+exportfs -s
+showmount
+showmount -e
+umount -f
+umount -l
+```
+
+#### [58. Сетевые файловые системы - SMB](../58/58._Сетевые_файловые_системы_-_SMB.md)
+
+```
+testparm
+smbpasswd
+smbpasswd -a
+smbclient -L
+```
+
+#### [59. Автоматическое монтирование - Autofs](../59/59._Автоматическое_монтирование_-_Autofs.md)
+
+```
+hostnamectl
+ipa-client-install
+```
+
+#### [63. Работа с podman](../63/63._Работа_с_podman.md)
+
+```
+podman
+podman search
+podman pull
+podman images
+podman run
+podman ps
+podman logs
+podman exec
+podman tag
+podman push
+podman image
+skopeo copy
+podman stop
+podman start
+podman login
+podman generate
+systemctl --user
+loginctl enable-linger
+firewall-cmd --add-forward-port
+```
+
+#### [64. Про сертификацию RHCSA](../64/64._Про_сертификацию_RHCSA.md)
+
+```
+shutdown now
+poweroff
+systemctl poweroff
+reboot
+star
+tar --selinux
 ```
