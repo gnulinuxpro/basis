@@ -1,13 +1,13 @@
-****
-Курс
-****
+******
+Course
+******
 
-01. Операционные системы и GNU-Linux
+01. Operating systems and GNU-Linux
 ####################################
 
 .. toctree::
 
-  basis/01/01._Операционные_системы_и_GNU-Linux.md
+  basis/01/01._Operating_systems_and_GNU-Linux.md
   basis/01/01._Практика.md
 
 02. Виртуализация

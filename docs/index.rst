@@ -1,10 +1,10 @@
-#####################################
-Основы GNU/Linux и подготовка к RHCSA
-#####################################
+#############################################
+Basics of GNU/Linux and Preparation for RHCSA
+#############################################
 
-**********
-Вступление
-**********
+************
+Introduction
+************
 
 .. raw:: html
 
@@ -12,28 +12,27 @@
 
 .. image:: basis.png
 
-Всем привет!
+Hello everyone!
 
-Это начало курса по изучению операционных систем семейства Linux и подготовки к экзамену для сертификации системного администратора по RedHat. Однако, основная цель, которую я ставлю – научить вас работать с линуксами. Я постараюсь сделать курс понятным для начинающих и по началу буду подавать информацию максимально простым языком.
+This is the beginning of a course on learning Linux operating systems and preparing for the RedHat system administrator certification exam. However, the main goal I set is to teach you how to work with Linux. I will try to make the course understandable for beginners and initially present information in the simplest language possible.
 
-Редхатовский экзамен – практический. Он охватывает ряд тем, необходимых администратору, но далеко не все темы. В названия тем, которые необходимо знать на экзамене, я буду добавлять надпись "RHCSA", но весь курс будет охватывать гораздо больше тем.
+The RedHat exam is practical. It covers a range of topics necessary for an administrator, but not all topics. In the titles of the topics that need to be known for the exam, I will add the label "RHCSA", but the entire course will cover many more topics.
 
-Так как я буду объяснять с азов, я поставил еще одну цель – сделать этот курс также для тех, кто абсолютно не знаком с IT. Для меня знакомство с операционными системами – это первый и очень важный шаг становления работником IT сферы. Поэтому, для кого-то ряд тем может показаться довольно простыми, но это позволит любому желающему разбираться в IT.
+Since I will be explaining from scratch, I have set another goal - to make this course also for those who are completely unfamiliar with IT. For me, getting acquainted with operating systems is the first and very important step in becoming an IT professional. Therefore, for some, a series of topics may seem quite simple, but this will allow anyone who wants to understand IT.
 
+Contents
+########
 
-Содержимое
-##########
-
-Ссылки
-******
+Links
+*****
 
 .. toctree::
 
-   Ссылки <https://gnulinux.pro>
+   Links <https://gnulinux.pro>
 
 
-Команды
-*******
+Commands
+********
 
 .. toctree::
    :titlesonly:
@@ -48,24 +47,24 @@ RHCSA
    basis/header/rhcsa.md
 
 
-Вопросы с интервью
-******************
+Interview questions
+*******************
 
 .. toctree::
 
    basis/header/interview.md
 
 
-Полезные ссылки
-***************
+Useful links
+************
 
 .. toctree::
 
    basis/header/useful.md
 
 
-Проблемы и решения
-******************
+Problems and solutions
+**********************
 
 .. toctree::
 
