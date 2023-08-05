@@ -1,6 +1,6 @@
 # RHCSA
 
-[Официальный сайт](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=Objectives)
+[The official website](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam?section=Objectives)
 
 ---
 

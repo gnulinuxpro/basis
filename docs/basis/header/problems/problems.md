@@ -1,7 +1,6 @@
-# Проблемы и решения
+# Problems and Solutions
 
-
-1. Разрешение экрана при установке в VirtualBox
+1. Screen Resolution Issue During Installation in VirtualBox
 
 ![](01/1.png)
 

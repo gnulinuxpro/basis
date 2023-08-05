@@ -3,37 +3,37 @@ Course
 ******
 
 01. Operating systems and GNU-Linux
-####################################
+###################################
 
 .. toctree::
 
   basis/01/01._Operating_systems_and_GNU-Linux.md
-  basis/01/01._Практика.md
+  basis/01/01._Practice.md
 
-02. Виртуализация
-#################
-
-.. toctree::
-
-  basis/02/02._Виртуализация.md
-  basis/02/02._Практика.md
-
-
-03. Установка AlmaLinux
-#######################
+02. Virtualization
+##################
 
 .. toctree::
 
-  basis/03/03._Установка_AlmaLinux.md
-  basis/03/03._Практика.md
+  basis/02/02._Virtualization.md
+  basis/02/02._Practice.md
 
-04. О файловых системах
-#######################
+
+03. AlmaLinux installation
+##########################
 
 .. toctree::
 
-  basis/04/04._О_файловых_системах.md
-  basis/04/04._Практика.md
+  basis/03/03._AlmaLinux_installation.md
+  basis/03/03._Practice.md
+
+04. What are filesystems?
+#########################
+
+.. toctree::
+
+  basis/04/04._What_are_filesystems.md
+  basis/04/04._Practice.md
 
 
 05. Текстовый интерфейс пользователя
@@ -42,7 +42,7 @@ Course
 .. toctree::
 
   basis/05/05._Текстовый_интерфейс_пользователя.md
-  basis/05/05._Практика.md
+  basis/05/05._Practice.md
 
 
 06. Пути и директории.md
@@ -51,7 +51,7 @@ Course
 .. toctree::
 
   basis/06/06._Пути_и_директории.md
-  basis/06/06._Практика.md
+  basis/06/06._Practice.md
 
 
 07. Создание и копирование файлов
@@ -60,7 +60,7 @@ Course
 .. toctree::
 
   basis/07/07._Создание_и_копирование_файлов.md
-  basis/07/07._Практика.md
+  basis/07/07._Practice.md
 
 
 08. Перемещение, переименование, удаление. Жёсткие и символические ссылки
@@ -69,7 +69,7 @@ Course
 .. toctree::
 
   basis/08/08._Перемещение,_переименование,_удаление._Жесткие_и_символические_ссылки.md
-  basis/08/08._Практика.md
+  basis/08/08._Practice.md
 
 
 09. Чтение текстовых файлов
@@ -78,7 +78,7 @@ Course
 .. toctree::
 
   basis/09/09._Чтение_текстовых_файлов.md
-  basis/09/09._Практика.md
+  basis/09/09._Practice.md
 
 
 10. Текстовые редакторы nano и vi
@@ -87,7 +87,7 @@ Course
 .. toctree::
 
   basis/10/10._Текстовые_редакторы_nano_и_vi.md
-  basis/10/10._Практика.md
+  basis/10/10._Practice.md
 
 
 11. Стандартные потоки
@@ -96,7 +96,7 @@ Course
 .. toctree::
 
   basis/11/11._Стандартные_потоки.md
-  basis/11/11._Практика.md
+  basis/11/11._Practice.md
 
 
 12. bash №1: bash-completion, alias, type
@@ -105,7 +105,7 @@ Course
 .. toctree::
 
   basis/12/12._bash_№1:_bash-completion,_alias,_type.md
-  basis/12/12._Практика.md
+  basis/12/12._Practice.md
 
 
 13. bash №2: переменные
@@ -114,7 +114,7 @@ Course
 .. toctree::
 
   basis/13/13._bash_№2:_переменные.md
-  basis/13/13._Практика.md
+  basis/13/13._Practice.md
 
 
 14. Процессы №1: Информация о процессах №1
@@ -123,7 +123,7 @@ Course
 .. toctree::
 
   basis/14/14._Процессы_№1:_Информация_о_процессах_№1.md
-  basis/14/14._Практика.md
+  basis/14/14._Practice.md
 
 
 15. Процессы №2: Информация о процессах №2
@@ -132,7 +132,7 @@ Course
 .. toctree::
 
   basis/15/15._Процессы_№2:_Информация_о_процессах_№2.md
-  basis/15/15._Практика.md
+  basis/15/15._Practice.md
 
 
 16. Процессы №3: Работа с процессами
@@ -141,7 +141,7 @@ Course
 .. toctree::
 
   basis/16/16._Процессы_№3:_Работа_с_процессами.md
-  basis/16/16._Практика.md
+  basis/16/16._Practice.md
 
 
 17. su
@@ -150,7 +150,7 @@ Course
 .. toctree::
 
   basis/17/17._su.md
-  basis/17/17._Практика.md
+  basis/17/17._Practice.md
 
 
 18. sudo
@@ -159,7 +159,7 @@ Course
 .. toctree::
 
   basis/18/18._sudo.md
-  basis/18/18._Практика.md
+  basis/18/18._Practice.md
 
 
 19. Пользователи
@@ -168,7 +168,7 @@ Course
 .. toctree::
 
   basis/19/19._Пользователи.md
-  basis/19/19._Практика.md
+  basis/19/19._Practice.md
 
 
 20. Права на файлы
@@ -177,7 +177,7 @@ Course
 .. toctree::
 
   basis/20/20._Права_на_файлы.md
-  basis/20/20._Практика.md
+  basis/20/20._Practice.md
 
 
 21. Ядро Linux
@@ -186,7 +186,7 @@ Course
 .. toctree::
 
   basis/21/21._Ядро_Linux.md
-  basis/21/21._Практика.md
+  basis/21/21._Practice.md
 
 
 22. Работа с дисками
@@ -195,7 +195,7 @@ Course
 .. toctree::
 
   basis/22/22._Работа_с_дисками.md
-  basis/22/22._Практика.md
+  basis/22/22._Practice.md
 
 
 23. Основы файловых систем
@@ -204,7 +204,7 @@ Course
 .. toctree::
 
   basis/23/23._Основы_файловых_систем.md
-  basis/23/23._Практика.md
+  basis/23/23._Practice.md
 
 
 24. Работа с файловыми системами
@@ -213,7 +213,7 @@ Course
 .. toctree::
 
   basis/24/24._Работа_с_файловыми_системами.md
-  basis/24/24._Практика.md
+  basis/24/24._Practice.md
 
 
 25. Управление логическими томами - LVM
@@ -222,7 +222,7 @@ Course
 .. toctree::
 
   basis/25/25._Управление_логическими_томами_-_LVM.md
-  basis/25/25._Практика.md
+  basis/25/25._Practice.md
 
 
 26. Программный RAID - MD
@@ -231,7 +231,7 @@ Course
 .. toctree::
 
   basis/26/26._Программный_RAID_-_MD.md
-  basis/26/26._Практика.md
+  basis/26/26._Practice.md
 
 
 27. bash скрипты №1
@@ -240,7 +240,7 @@ Course
 .. toctree::
 
   basis/27/27._bash_скрипты_№1.md
-  basis/27/27._Практика.md
+  basis/27/27._Practice.md
 
 
 28. bash скрипты №2
@@ -249,7 +249,7 @@ Course
 .. toctree::
 
   basis/28/28._bash_скрипты_№2.md
-  basis/28/28._Практика.md
+  basis/28/28._Practice.md
 
 
 29. bash скрипты №3
@@ -258,7 +258,7 @@ Course
 .. toctree::
 
   basis/29/29._bash_скрипты_№3.md
-  basis/29/29._Практика.md
+  basis/29/29._Practice.md
 
 
 30. bash скрипты №4
@@ -267,7 +267,7 @@ Course
 .. toctree::
 
   basis/30/30._bash_скрипты_№4.md
-  basis/30/30._Практика.md
+  basis/30/30._Practice.md
 
 
 31. bash скрипты №5
@@ -292,7 +292,7 @@ Course
 .. toctree::
 
   basis/33/33._Загрузчик_GRUB.md
-  basis/33/33._Практика.md
+  basis/33/33._Practice.md
 
 
 34. Система инициализации - systemd
@@ -301,7 +301,7 @@ Course
 .. toctree::
 
   basis/34/34._Система_инициализации_-_systemd.md
-  basis/34/34._Практика.md
+  basis/34/34._Practice.md
 
 
 35. Системный менеджер systemd
@@ -310,7 +310,7 @@ Course
 .. toctree::
 
   basis/35/35._Системный_менеджер_systemd.md
-  basis/35/35._Практика.md
+  basis/35/35._Practice.md
 
 
 36. Логирование
@@ -319,7 +319,7 @@ Course
 .. toctree::
 
   basis/36/36._Логирование.md
-  basis/36/36._Практика.md
+  basis/36/36._Practice.md
 
 
 37. Планировщики задач
@@ -328,7 +328,7 @@ Course
 .. toctree::
 
   basis/37/37._Планировщики_задач.md
-  basis/37/37._Практика.md
+  basis/37/37._Practice.md
 
 
 38. Создание backup скрипта
@@ -337,7 +337,7 @@ Course
 .. toctree::
 
   basis/38/38._Создание_backup_скрипта.md
-  basis/38/38._Практика.md
+  basis/38/38._Practice.md
 
 
 39. Инкрементальные бэкапы с tar
@@ -368,7 +368,7 @@ Course
 .. toctree::
 
   basis/42/42._Основы_сетей.md
-  basis/42/42._Практика.md
+  basis/42/42._Practice.md
 
 
 43. Работа с сетью
@@ -377,7 +377,7 @@ Course
 .. toctree::
 
   basis/43/43._Работа_с_сетью.md
-  basis/43/43._Практика.md
+  basis/43/43._Practice.md
 
 
 44. Удалённый доступ - SSH
@@ -386,7 +386,7 @@ Course
 .. toctree::
 
   basis/44/44._Удалённый_доступ_-_SSH.md
-  basis/44/44._Практика.md
+  basis/44/44._Practice.md
 
 
 45. Принудительный контроль доступа - SElinux
@@ -419,7 +419,7 @@ Course
 .. toctree::
 
   basis/48/48._Восстановление_доступа.md
-  basis/48/48._Практика.md
+  basis/48/48._Practice.md
 
 
 49. Виртуальная память, swap
@@ -524,7 +524,7 @@ Course
 .. toctree::
 
   basis/61/61._Глоббинг_и_регулярные_выражения.md
-  basis/61/61._Практика.md
+  basis/61/61._Practice.md
 
 
 62. Основы контейнеризации
@@ -533,7 +533,7 @@ Course
 .. toctree::
 
   basis/62/62._Основы_контейнеризации.md
-  basis/62/62._Практика.md
+  basis/62/62._Practice.md
 
 
 63. Работа с podman
@@ -542,7 +542,7 @@ Course
 .. toctree::
 
   basis/63/63._Работа_с_podman.md
-  basis/63/63._Практика.md
+  basis/63/63._Practice.md
 
 
 64. Про сертификацию RHCSA

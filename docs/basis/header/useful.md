@@ -1,11 +1,5 @@
-# Полезные ссылки
+# Useful Links
 
-## Лабораторные от RedHat
+## RedHat's Labs
 
 https://lab.redhat.com/
-
-## GitHub Семаева
-
-Здесь есть задачи, домашние задания, мануалы и прочая полезная информация: 
-
-https://github.com/ksemaev/

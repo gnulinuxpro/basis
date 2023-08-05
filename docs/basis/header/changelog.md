@@ -1,7 +1,7 @@
 # Changelog
 
-После публикации курса, чтобы он не устаревал, будут вноситься изменения по мере необходимости. В этом файле будут описываться только изменения существующих уроков, чтобы можно было понять, какой из уроков был обновлён и что было добавлено. Изменять видео на ютубе сложно, поэтому видеокурс в какой-то момент может отставать от текстового и этот файл подскажет вам какие именно темы поменялись. 
+After the course is published, updates will be made as needed to keep it up-to-date. This file will only describe the changes to existing lessons, allowing you to understand which lesson has been updated and what has been added. Changing videos on YouTube is difficult, so the video course may lag behind the textual one at some point, and this file will indicate which topics have been changed.
 
 ## 03
 
-- ``` 16.01.2022 ``` - в теме установки ОС Centos был заменён на AlmaLinux, так как проект Centos прекратили поддерживать. 
+- ``` 16.01.2022 ``` - In the CentOS OS installation topic, it was replaced with AlmaLinux, as the CentOS project has been discontinued.
