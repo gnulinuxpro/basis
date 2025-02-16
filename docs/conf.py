@@ -22,7 +22,7 @@ project = 'BASIS'
 copyright = '2021, GNU Linux Pro, CC-BY-SA-4.0'
 author = 'GNU Linux Pro'
 
-root_doc = 'course'
+root_doc = 'basis'
 # The full version, including alpha/beta/rc tags
 release = '27/12/2021'
 
